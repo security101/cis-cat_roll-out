@@ -1,0 +1,1 @@
+This script is designed to ease remote deployment, execution, report collection and clean up for the "Center of Internet Security - Configuration Assessment Tool" by using functions usually provided by any POSIX operating system. Please refer to www.cisecurity.org concerning the CIS-CAT Tool.
